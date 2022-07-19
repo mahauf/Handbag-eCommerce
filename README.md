@@ -1,4 +1,4 @@
-# Leona Handbag
+<h1 align="center"> LEONA Handbag </h1>
 
 <br/>
 
@@ -27,7 +27,7 @@ https://www.figma.com/file/tAfBSrSB2sbDJIbtuset8V/Leona-Handbag-e-Com?node-id=43
 
  HomePage                 |   Product Detail Page        |  Cart Page
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="assets/images/Desk/Homepage.png"/>|<img src="assets/images/Desk/Product.png"/>|<img src="assets/images/Desk/Checkout.png"/>
+<img src="assets/images/Desk/Homepage.png"/>|<img src="assets/images/Desk/Product details.png"/>|<img src="assets/images/Desk/Checkout.png"/>
 
 <br/>
 
