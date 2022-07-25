@@ -1,5 +1,7 @@
 <h1 align="center"> LEONA Handbag </h1>
 
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
 <br/>
 
 ![cover(1)](https://user-images.githubusercontent.com/109097651/179726315-26296ab6-b5cb-4c0c-a388-9e19080eba1e.png)
